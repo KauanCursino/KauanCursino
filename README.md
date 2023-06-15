@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kauan</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kauancursino" alt="kauancursino" /></a> </p>
 
-- 🔭 I’m currently working on **fdasgs**
-
-- 👯 I’m looking to collaborate on **wgrsg**
-
-- 🤝 I’m looking for help with **gwsg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
